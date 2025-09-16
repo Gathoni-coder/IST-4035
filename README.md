@@ -1,6 +1,6 @@
 
 **HTML5-PRACTICAL**
-
+This website shows Vegetarian Dishes and Cuisines, Origin of Vegetarian dishes and recipe videos.
 
 
 **Page 1**
